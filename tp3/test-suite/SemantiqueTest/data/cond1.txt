@@ -1,0 +1,8 @@
+num a;
+bool b;
+
+if(b) {
+    a = 1 + 2;
+} else {
+    a = 1 * 2;
+}

@@ -1,0 +1,6 @@
+ num a;
+
+a = 10;
+while(false) {
+    a = a - 1;
+}

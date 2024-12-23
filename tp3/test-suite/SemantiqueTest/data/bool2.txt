@@ -1,0 +1,9 @@
+bool a;
+bool b;
+bool c;
+
+a = false || true;
+
+b = true || a;
+
+c = a && b;

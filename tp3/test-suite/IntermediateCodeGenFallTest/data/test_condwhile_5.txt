@@ -1,0 +1,13 @@
+num a;
+bool b;
+bool c;
+num d;
+
+d = 1;
+while(b) {
+  d = d + 1;
+  while(c && true) {
+    a = 42;
+  }
+}
+  

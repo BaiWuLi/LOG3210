@@ -1,0 +1,20 @@
+a = 2
+_L1
+if a == 0 goto _L2
+goto _L3
+_L2
+b = 5
+goto _L0
+_L3
+if a == 2 goto _L4
+goto _L5
+_L4
+b = 6
+goto _L0
+_L5
+if a == 1 goto _L6
+goto _L0
+_L6
+b = 10
+goto _L0
+_L0

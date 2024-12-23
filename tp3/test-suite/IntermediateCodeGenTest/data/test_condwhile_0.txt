@@ -1,0 +1,4 @@
+num a;
+
+while(true)
+  a = 42;

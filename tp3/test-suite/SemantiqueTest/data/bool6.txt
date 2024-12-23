@@ -1,0 +1,4 @@
+bool a;
+//expression avec des comparaison
+
+a = -1 <= 2 + 2 && true;

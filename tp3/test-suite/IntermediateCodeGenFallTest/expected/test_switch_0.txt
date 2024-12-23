@@ -1,0 +1,8 @@
+a = 0
+_L1
+if a == 0 goto _L2
+goto _L0
+_L2
+b = 5
+goto _L0
+_L0

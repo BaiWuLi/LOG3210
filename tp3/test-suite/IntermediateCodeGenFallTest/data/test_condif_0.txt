@@ -1,0 +1,4 @@
+num a;
+
+if(true)
+  a = 42;

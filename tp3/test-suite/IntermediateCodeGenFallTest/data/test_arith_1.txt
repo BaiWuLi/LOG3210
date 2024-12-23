@@ -1,0 +1,7 @@
+num a;
+num b;
+num c;
+
+a = 1;
+b = 2;
+c = 3;

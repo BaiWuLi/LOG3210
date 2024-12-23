@@ -1,0 +1,12 @@
+num a;
+num b;
+num c;
+num d;
+
+a = 1;
+
+b = 2;
+
+c = a;
+
+d = b;

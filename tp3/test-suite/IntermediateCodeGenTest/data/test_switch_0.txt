@@ -1,0 +1,13 @@
+num b;
+enum A {
+    B, C, D
+}
+A a;
+
+a = B;
+
+switch(a) {
+    case B:
+        b = 5;
+        break;
+}

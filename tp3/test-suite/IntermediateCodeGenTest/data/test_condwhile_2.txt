@@ -1,0 +1,9 @@
+num a;
+num b;
+bool c;
+
+while(1 >= a) {
+  a = 42;
+  b = 1 / 3 + 5;
+}
+  

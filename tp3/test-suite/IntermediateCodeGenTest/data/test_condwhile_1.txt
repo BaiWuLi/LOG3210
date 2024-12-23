@@ -1,0 +1,6 @@
+num a;
+bool b;
+
+while(b) {
+  a = 42;
+}
